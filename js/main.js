@@ -173,3 +173,31 @@ function sommaNumeri(num1, num2, str){
     }
 
 }
+
+/*Palidroma
+Chiedere all’utente di inserire una parola. Creare una funzione per capire se la parola inserita è palindroma.
+ Usate poi la funzione per decretare se la parola inserita dall'utente è palindroma o meno.
+  In Internet trovate degli esempi di parole palindrome.
+*/
+
+//chiedo una parola all'utente
+let word = prompt("dimmi una parola")
+
+
+
+
+
+
+
+
+
+
+
+//------------funzioni-------------
+function isPalindroma(str){
+    // devo controllare che la parola scritta al contrario rimane uguale.
+    // come scrivo la parola al contrario.   
+
+    // confrontare le due parole
+
+}
